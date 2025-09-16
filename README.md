@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔎🧑‍💻 I’m currently working on searching job and my own projects<br>👯 I’m looking to collaborate on frontend web proyects with teams<br>🌱🖥️ I’m currently learning and reviewing frontend web technologies<br>💬 Ask me about frontend web design and development<br>⚡ Fun fact develop on frontend web proyects
+Backend & frontend junior. Python (para IA) · JS/TS · Angular · HTML/CSS · MySQL. Valladolid · remoto ES. Busco 1.er rol; aprendiendo GenAI (prompting/Make).
 
 
 ## 🌐 Socials:
