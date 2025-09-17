@@ -1,34 +1,45 @@
-# 💫 About Me:
-Junior **backend & frontend** developer based in Valladolid (working remotely from Spain).  
-**Stack:** Python · JavaScript/TypeScript · Angular · HTML/CSS · MySQL | Java/Spring (basics).  
-**Python for data (intermediate):** pandas, NumPy, Matplotlib, Seaborn · **Backend:** Flask + SQLAlchemy.  
-**Ops/Observability:** incident support and dashboards with Elasticsearch, Grafana and Zabbix → I value **reliability**, **metrics** and **clear hand-offs**.  
-**Learning:** Generative AI & automation (prompting, custom GPTs, Make).  
-**Open to:** my **first junior web role** (backend or **Angular/TS frontend**); also open to **Python-for-data** roles.  
+## 👋 About me
+Junior backend & frontend developer based in Valladolid (working remotely from Spain).
+Stack: Python · JavaScript/TypeScript · Angular · HTML/CSS · MySQL | Java/Spring (basics).
+Python for data (intermediate): pandas, NumPy, Matplotlib, Seaborn. Backend: Flask + SQLAlchemy.
+Ops/Observability: incident support & dashboards with Elasticsearch, Grafana and Zabbix — I value reliability, metrics and clear hand-offs.
+Learning: Generative AI & automation (prompting, custom GPTs, Make).
 
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvarotoribioaba)
-📫 **Contact:** atoribioaba@gmail.com · 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=atoribioaba&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=atoribioaba&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atoribioaba&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=atoribioaba&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=atoribioaba&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+👉 **Quick jump:** [Python/Flask](#python-flask) · [Angular/TS](#angular-ts) · [Data/MySQL](#data-mysql)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=atoribioaba&icon=4&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧰 Tech stack (badges with anchors)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#python-flask)
+[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](#python-flask)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-A71D2A?logoColor=white)](#python-flask)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)](#angular-ts)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#angular-ts)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](#data-mysql)
+[![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)](#data-mysql)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](#data-mysql)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logoColor=white)](#data-mysql)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?logoColor=white)](#data-mysql)
+
+---
+
+## 🔵 Projects by stack
+
+### <a id="python-flask"></a>Python / Flask
+- **flask-data-api** — CRUD API with pagination (**Flask + SQLAlchemy + MySQL**). *(WIP – repo link soon)*  
+- **python-data-notebooks** — EDA with **pandas/NumPy/Seaborn**. *(WIP – repo link soon)*
+
+### <a id="angular-ts"></a>Angular / TypeScript
+- **angular-dashboard** — Table with filters + one chart. *(WIP – repo link soon)*
+
+### <a id="data-mysql"></a>Data / MySQL
+- **python-data-notebooks** — exploration & visualization. *(WIP – repo link soon)*  
+- **flask-data-api** — serves data from MySQL. *(WIP – repo link soon)*
+
+---
+
+## 🔗 Social
+[LinkedIn](https://www.linkedin.com/in/alvarotoribioaba) · **Email:** atoribioaba@gmail.com
+
+> Repos are **private / All rights reserved** unless stated otherwise.
