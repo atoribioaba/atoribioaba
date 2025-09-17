@@ -1,10 +1,9 @@
 ## 👋 About me
-Junior backend & frontend developer based in Valladolid (working remotely from Spain).
-Stack: Python · JavaScript/TypeScript · Angular · HTML/CSS · MySQL | Java/Spring (basics).
-Python for data (intermediate): pandas, NumPy, Matplotlib, Seaborn. Backend: Flask + SQLAlchemy.
-Ops/Observability: incident support & dashboards with Elasticsearch, Grafana and Zabbix — I value reliability, metrics and clear hand-offs.
-Learning: Generative AI & automation (prompting, custom GPTs, Make).
-
+Junior **backend & frontend** developer in Valladolid (remote from Spain).  
+**Stack:** Python · JavaScript/TypeScript · Angular · HTML/CSS · MySQL | Java/Spring (basics).  
+**Data (intermediate):** pandas, NumPy, Matplotlib, Seaborn. **Backend:** Flask + SQLAlchemy.  
+**Observability:** Elasticsearch, Grafana, Zabbix — I value reliability, metrics and clear hand-offs.  
+**Learning:** Generative AI & automation (prompting, custom GPTs, Make).
 
 👉 **Quick jump:** [Python/Flask](#python-flask) · [Angular/TS](#angular-ts) · [Data/MySQL](#data-mysql)
 
@@ -19,23 +18,25 @@ Learning: Generative AI & automation (prompting, custom GPTs, Make).
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](#data-mysql)
 [![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)](#data-mysql)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](#data-mysql)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logoColor=white)](#data-mysql)
-[![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?logoColor=white)](#data-mysql)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)](#data-mysql)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE)](#data-mysql)
 
 ---
 
 ## 🔵 Projects by stack
 
 ### <a id="python-flask"></a>Python / Flask
-- **flask-data-api** — CRUD API with pagination (**Flask + SQLAlchemy + MySQL**). *(WIP – repo link soon)*  
-- **python-data-notebooks** — EDA with **pandas/NumPy/Seaborn**. *(WIP – repo link soon)*
+- **flask-data-api** — CRUD API with pagination (**Flask + SQLAlchemy + MySQL**). *(WIP — repo link soon)*
+- **python-data-notebooks** — EDA with **pandas/NumPy/Seaborn** *(see [Data/MySQL](#data-mysql)).*
 
 ### <a id="angular-ts"></a>Angular / TypeScript
-- **angular-dashboard** — Table with filters + one chart. *(WIP – repo link soon)*
+- **angular-dashboard** — Table with filters + one chart. *(WIP — repo link soon)*
 
 ### <a id="data-mysql"></a>Data / MySQL
-- **python-data-notebooks** — exploration & visualization. *(WIP – repo link soon)*  
-- **flask-data-api** — serves data from MySQL. *(WIP – repo link soon)*
+- **python-data-notebooks** — exploration & visualization. *(WIP — repo link soon)*
+- **flask-data-api** — serves data from MySQL *(see [Python/Flask](#python-flask)).*
+
+[↑ Back to top](#-about-me)
 
 ---
 
