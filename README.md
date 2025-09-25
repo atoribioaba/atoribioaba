@@ -26,14 +26,14 @@ Junior **backend & frontend** developer in Valladolid (remote from Spain).
 ## 🔵 Projects by stack
 
 ### <a id="python-flask"></a>Python / Flask
-- **flask-data-api** — CRUD API with pagination (**Flask + SQLAlchemy + MySQL**). *(WIP — repo link soon)*
+- **flask-data-api** — CRUD API with pagination (**Flask + SQLAlchemy + MySQL**). 
 - **python-data-notebooks** — EDA with **pandas/NumPy/Seaborn** *(see [Data/MySQL](#data-mysql)).*
 
 ### <a id="angular-ts"></a>Angular / TypeScript
-- **angular-dashboard** — Table with filters + one chart. *(WIP — repo link soon)*
+- **angular-dashboard** — Table with filters + one chart.
 
 ### <a id="data-mysql"></a>Data / MySQL
-- **python-data-notebooks** — exploration & visualization. *(WIP — repo link soon)*
+- **python-data-notebooks** — exploration & visualization.
 - **flask-data-api** — serves data from MySQL *(see [Python/Flask](#python-flask)).*
 
 [↑ Back to top](#-about-me)
